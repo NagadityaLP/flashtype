@@ -4,7 +4,7 @@ import Footer from '../Footer/Footer';
 import Landing from '../Landing/Landing';
 import Nav from './../Nav/Nav';
 import './App.css';
-import { SAMPLE_PARAGRAPHS } from '../data/sampleParagraphs';
+import { SAMPLE_PARAGRAPHS } from '../../data/sampleParagraphs';
 
 
 const TotalTime = 60;
